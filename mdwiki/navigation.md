@@ -2,7 +2,7 @@
 
 [企業]()
 
-  * [クリエイティブアドバンス(MDL版)](link/creative_advance_with_MDL.md)
+  * [クリエイティブアドバンス(MDL版)](link/creative_advance/MDL.md)
   - - - -
   * # SubMenu Heading 2
 
